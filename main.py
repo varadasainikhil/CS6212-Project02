@@ -14,6 +14,7 @@ def GenerateArray(arraySize, shift):  # Function to generate
     return tempArray
 
 
+# Generating an array
 array1 = GenerateArray(262144, 2)
 start = time.time_ns()  # Calculate start time in nanoseconds
 
