@@ -16,4 +16,5 @@ We have to find the largest number in a circularly shifted array in O(log n) tim
 This algorithm will run in O (log n) because this is a modified Binary Search algorithm.
 
 ## Graph Generated 
-<img width="365" alt="image" src="https://github.com/varadasainikhil/CS6212-Project02/assets/53186086/e3b794bf-1927-4d09-82ee-45197df2f5ab">
+![graph](https://github.com/varadasainikhil/CS6212-Project02/assets/53186086/4de3c3cb-47d5-40e7-a387-170891ade4a2)
+
