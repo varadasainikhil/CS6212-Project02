@@ -15,6 +15,5 @@ We have to find the largest number in a circularly shifted array in O(log n) tim
 6.	Otherwise, call the function with the mid+1 and high as the pointers.
 This algorithm will run in O (log n) because this is a modified Binary Search algorithm.
 
-## Graph Generated 
-![graph](https://github.com/varadasainikhil/CS6212-Project02/assets/53186086/4de3c3cb-47d5-40e7-a387-170891ade4a2)
+
 
