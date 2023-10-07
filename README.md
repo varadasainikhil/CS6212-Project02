@@ -1,6 +1,6 @@
 # CS6212-Project02
 This is the Project02 of CS6212. 
-## Problem Statment
+## Problem Statement
 Finding Max Number in Circular Shifted Array.
 We are given an array A[1..n] of sorted integers that has been circularly shifted some positions to the right. For example, [35, 42, 5, 15, 27, 29] is a sorted array that has been circularly shifted 2 positions, while [27, 29, 35, 42, 5, 15] has been shifted 4 positions. We can obviously find the largest element in A in O(n) time. Describe an O(log n) algorithm.
 
